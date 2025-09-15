@@ -71,7 +71,7 @@ public function articulos()
 {
     return $this->hasMany(ArticuloInventario::class, 'id_inventario');
 }
-public function grupo()
+ public function grupo()
 {
     return $this->belongsTo(\App\Models\Grupo::class, 'id_grupo');
 }

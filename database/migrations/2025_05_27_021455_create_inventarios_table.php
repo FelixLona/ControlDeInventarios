@@ -47,8 +47,8 @@ return new class extends Migration
             $table->string('num_serie')->nullable();
             $table->string('otras_especificaciones', 512)->nullable();
             $table->string('fuente_financiamiento')->nullable();
-            $table->foreignId('id')->nullable()->constrained('empleado');
-            $table->foreignId('id')->nullable()->constrained('empleado');
+            $table->foreignId('id')->nullable()->constrained('empleados');
+            
             $table->unsignedBigInteger('num_inventario')->nullable();
             $table->date('fecha_validacion')->nullable();
             $table->date('fecha_actualizacion')->nullable();
