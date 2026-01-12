@@ -1,0 +1,26 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#7196
+    [34mall[39m: [
+      [34;4mApp\Models\Ubicacion[39;24m {#7304
+        [34mid_ubicacion[39m: [35m1[39m,
+        [34mnombre[39m: "[32mAlmacén Central[39m",
+        [34mdescripcion[39m: "[32mZona principal[39m",
+        [34mcreated_at[39m: "[32m2025-05-20 19:25:46[39m",
+        [34mupdated_at[39m: "[32m2025-05-20 19:25:46[39m",
+      },
+      [34;4mApp\Models\Ubicacion[39;24m {#7303
+        [34mid_ubicacion[39m: [35m2[39m,
+        [34mnombre[39m: "[32mBodega Secundaria[39m",
+        [34mdescripcion[39m: "[32mZona secundaria[39m",
+        [34mcreated_at[39m: "[32m2025-05-20 19:25:46[39m",
+        [34mupdated_at[39m: "[32m2025-05-20 19:25:46[39m",
+      },
+      [34;4mApp\Models\Ubicacion[39;24m {#7306
+        [34mid_ubicacion[39m: [35m3[39m,
+        [34mnombre[39m: "[32mOficina[39m",
+        [34mdescripcion[39m: "[32mOficina principal[39m",
+        [34mcreated_at[39m: "[32m2025-05-21 13:58:05[39m",
+        [34mupdated_at[39m: "[32m2025-05-21 13:58:05[39m",
+      },
+    ],
+  }
+

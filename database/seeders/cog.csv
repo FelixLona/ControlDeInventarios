@@ -1,0 +1,955 @@
+Clave,Valor,TIPO GASTO
+1000,SERVICIOS PERSONALES,
+1100,REMUNERACIONES AL PERSONAL DE CARÁCTER PERMANENTE,
+111,Dietas,
+1111,Dietas [GASTO CORRIENTE],1
+112,Haberes,
+113,Sueldos base al personal permanente,
+1131,Sueldo base [GASTO CORRIENTE],1
+114,Remuneraciones por adscripción laboral en el extranjero,
+1141,Remuneraciones por adscripción laboral en el extranjero [GASTO CORRIENTE],1
+1200,REMUNERACIONES AL PERSONAL DE CARÁCTER TRANSITORIO,
+121,Honorarios asimilables a salarios,
+1211,Honorarios asimilables a salarios [GASTO CORRIENTE],1
+122,Sueldos base al personal eventual,
+1221,Salarios al personal eventual [GASTO CORRIENTE],1
+123,Retribuciones por servicios de carácter social,
+1231,Retribuciones por servicios de carácter social [GASTO CORRIENTE],1
+1232,Gratificados [GASTO CORRIENTE],1
+124,Retribución a los representantes de los trabajadores y de los patrones en la Junta de Conciliación y Arbitraje,
+1241,Retribución a los representantes de los trabajadores y de los patrones en la Junta Local de Conciliación y Arbitraje [GASTO CORRIENTE],1
+1300,REMUNERACIONES ADICIONALES Y ESPECIALES,
+131,Primas por años de servicios efectivos prestados,
+1311,Prima quinquenal por años de servicios efectivos prestados [GASTO CORRIENTE],1
+132,"Primas de vacaciones, dominical y gratificación de fin de año",
+1321,Prima vacacional y dominical [GASTO CORRIENTE],1
+1322,Aguinaldo [GASTO CORRIENTE],1
+133,Horas extraordinarias,
+1331,Remuneraciones por horas extraordinarias [GASTO CORRIENTE],1
+1332,Remuneraciones por horas extraordinarias específicas para personal docente [GASTO CORRIENTE],1
+134,Compensaciones,
+1341,Compensaciones a sustitutos de profesores en estado grávido y personal docente con licencia prejubilatoria [GASTO CORRIENTE],1
+1342,"Compensaciones a directores de preescolar, primaria y secundaria, inspectores, prefectos y F.C. [GASTO CORRIENTE]",1
+1343,Compensaciones para material didáctico [GASTO CORRIENTE],1
+1344,"Compensaciones por titulación a nivel licenciatura T-3, MA Y DO [GASTO CORRIENTE]",1
+1345,Compensaciones adicionales [GASTO CORRIENTE],1
+1346,Compensaciones por servicios de justicia [GASTO CORRIENTE],1
+1347,Otras compensaciones [GASTO CORRIENTE],1
+1348,Sobresueldos [GASTO CORRIENTE],1
+135,Sobrehaberes,
+136,"Asignaciones de técnico, de mando, por comisión, de vuelo y de técnico especial",
+137,Honorarios especiales,
+1371,Honorarios especiales [GASTO CORRIENTE],1
+138,Participaciones por vigilancia en el cumplimiento de las leyes y custodia de valores,
+1400,SEGURIDAD SOCIAL,
+141,Aportaciones de seguridad social,
+1411,Cuotas al IMSS [GASTO CORRIENTE],1
+1413,Cuotas al ISSSTE [GASTO CORRIENTE],1
+142,Aportaciones a fondos de vivienda,
+1421,Cuotas para la vivienda [GASTO CORRIENTE],1
+143,Aportaciones al sistema para el retiro,
+1431,Cuotas a pensiones [GASTO CORRIENTE],1
+1432,Cuotas para el sistema de ahorro para el retiro [GASTO CORRIENTE],1
+144,Aportaciones para seguros,
+1441,Cuotas para el seguro de vida del personal [GASTO CORRIENTE],1
+1442,Cuotas para el seguro de gastos médicos [GASTO CORRIENTE],1
+1500,OTRAS PRESTACIONES SOCIALES Y ECONÓMICAS,
+151,Cuotas para el fondo de ahorro y fondo de trabajo,
+152,Indemnizaciones,
+1521,Indemnizaciones por separación [GASTO CORRIENTE],1
+1522,Indemnizaciones por accidente en el trabajo [GASTO CORRIENTE],1
+1523,Prima por riesgo de trabajo [GASTO CORRIENTE],1
+1524,Indemnizaciones por riesgo de trabajo [GASTO CORRIENTE],1
+153,Prestaciones y haberes de retiro,
+1531,Fondo de retiro [GASTO CORRIENTE],1
+154,Prestaciones contractuales,
+1541,Previsión social múltiple para personal [GASTO CORRIENTE],1
+1542,Gratificaciones genéricas [GASTO CORRIENTE],1
+1543,Estímulos al personal [GASTO CORRIENTE],1
+1544,Homologación [GASTO CORRIENTE],1
+1545,Ayuda para actividades de organización y supervisión [GASTO CORRIENTE],1
+1546,Asignación docente [GASTO CORRIENTE],1
+1547,Servicios cocurriculares [GASTO CORRIENTE],1
+1548,"Sueldos, demás percepciones y gratificación anual [GASTO CORRIENTE]",1
+155,Apoyos a la capacitación de los servidores públicos,
+1551,Apoyos a la capacitación específica de los servidores públicos [GASTO CORRIENTE],1
+159,Otras prestaciones sociales y económicas,
+1591,Servicios médicos y hospitalarios [GASTO CORRIENTE],1
+1592,Prima de insalubridad [GASTO CORRIENTE],1
+1593,Prestación salarial complementaria por fallecimiento [GASTO CORRIENTE],1
+1600,PREVISIONES,
+161,"Previsiones de carácter laboral, económica y de seguridad social",
+1611,Impacto al salario en el transcurso del año [TRANSITORIA],TRAN
+1612,Otras medidas de carácter laboral y económico [TRANSITORIA],TRAN
+1700,PAGO DE ESTÍMULOS A SERVIDORES PÚBLICOS,
+171,Estímulos,
+1711,Acreditación por años de estudios en licenciatura [GASTO CORRIENTE],1
+1712,Ayuda para despensa [GASTO CORRIENTE],1
+1713,Ayuda para pasajes [GASTO CORRIENTE],1
+1714,Ayuda para actividades de esparcimiento [GASTO CORRIENTE],1
+1715,Estímulo por el día del servidor público [GASTO CORRIENTE],1
+1716,Estímulos de antigüedad [GASTO CORRIENTE],1
+1717,Acreditación por años de servicio en educación superior [GASTO CORRIENTE],1
+1718,Gratificaciones [GASTO CORRIENTE],1
+1719,Otros estímulos [GASTO CORRIENTE],1
+172,Recompensas,
+2000,MATERIALES Y SUMINISTROS,
+2100,"MATERIALES DE ADMINISTRACIÓN, EMISIÓN DE DOCUMENTOS Y ARTÍCULOS OFICIALES",
+211,"Materiales, útiles y equipos menores de oficina",
+2111,"Materiales, útiles y equipos menores de oficina [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+212,Materiales y útiles de impresión y reproducción,
+2121,"Materiales y útiles de impresión y reproducción [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+213,Material estadístico y geográfico,
+2131,"Material estadístico y geográfico [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+214,"Materiales, útiles y equipos menores de tecnologías de la información y comunicaciones",
+2141,"Materiales, útiles y equipos menores de tecnologías de la información y comunicaciones [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+215,Material impreso e información digital,
+2151,"Material impreso e información digital [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+216,Material de limpieza,
+2161,"Material de limpieza [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+217,Materiales y útiles de enseñanza,
+2171,"Materiales y útiles de enseñanza [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+218,Materiales para el registro e identificación de bienes y personas,
+2181,"Materiales para el registro e identificación de bienes y personas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2182,"Registro e identificación vehicular [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2183,"Adquisición de formas valoradas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2200,ALIMENTOS Y UTENSILIOS,
+221,Productos alimenticios para personas,
+2211,"Productos alimenticios para los efectivos que participen en programas de seguridad pública [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2212,"Productos alimenticios para personas derivado de la prestación de servicios públicos en unidades de salud, educativas, de readaptación social y otras [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2213,"Productos alimenticios para el personal que realiza labores en campo o de supervisión [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2214,"Productos alimenticios para el personal en las instalaciones de las dependencias y entidades [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2215,"Productos alimenticios para la población en caso de desastres naturales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2216,"Productos alimenticios para el personal derivado de actividades extraordinarias [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+222,Productos alimenticios para animales,
+2221,"Productos alimenticios para animales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+223,Utensilios para el servicio de alimentación,
+2231,"Utensilios para el servicio de alimentación [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2300,MATERIAS PRIMAS Y MATERIALES DE PRODUCCIÓN Y COMERCIALIZACIÓN,
+231,"Productos alimenticios, agropecuarios y forestales adquiridos como materia prima",
+2311,"Productos alimenticios, agropecuarios y forestales adquiridos como materia prima [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+232,Insumos textiles adquiridos como materia prima,
+2321,"Insumos textiles adquiridos como materia prima [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+233,"Productos de papel, cartón e impresos adquiridos como materia prima",
+2331,"Productos de papel, cartón e impresos adquiridos como materia prima [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+234,"Combustibles, lubricantes, aditivos, carbón y sus derivados adquiridos como materia prima",
+2341,"Combustibles, lubricantes, aditivos, carbón y sus derivados adquiridos como materia prima [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+235,"Productos químicos, farmacéuticos y de laboratorio adquiridos como materia prima",
+2351,"Productos químicos, farmacéuticos y de laboratorio adquiridos como materia prima [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+236,Productos metálicos y a base de minerales no metálicos adquiridos como materia prima,
+2361,"Productos metálicos y a base de minerales no metálicos adquiridos como materia prima [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+237,"Productos de cuero, piel, plástico y hule adquiridos como materia prima",
+2371,"Productos de cuero, piel, plástico y hule adquiridos como materia prima [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+238,Mercancías adquiridas para su comercialización,
+2381,"Mercancías adquiridas para su comercialización [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+239,Otros productos adquiridos como materia prima,
+2391,"Otros productos adquiridos como materia prima [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2400,MATERIALES Y ARTÍCULOS DE CONSTRUCCIÓN Y DE REPARACIÓN,
+241,Productos minerales no metálicos,
+2411,"Productos minerales no metálicos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+242,Cemento y productos de concreto,
+2421,"Cemento y productos de concreto [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+243,"Cal, yeso y productos de yeso",
+2431,"Cal, yeso y productos de yeso [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+244,Madera y productos de madera,
+2441,"Madera y productos de madera [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+245,Vidrio y productos de vidrio,
+2451,"Vidrio y productos de vidrio [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+246,Material eléctrico y electrónico,
+2461,"Material eléctrico y electrónico [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+247,Artículos metálicos para la construcción,
+2471,"Artículos metálicos para la construcción [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+248,Materiales complementarios,
+2481,"Materiales complementarios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+249,Otros materiales y artículos de construcción y reparación,
+2491,"Otros materiales y artículos de construcción y reparación [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2500,"PRODUCTOS QUÍMICOS, FARMACÉUTICOS Y DE LABORATORIO",
+251,Productos químicos básicos,
+2511,"Productos químicos básicos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+252,"Fertilizantes, pesticidas y otros agroquímicos",
+2521,"Fertilizantes, pesticidas y otros agroquímicos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+253,Medicinas y productos farmacéuticos,
+2531,"Medicinas y productos farmacéuticos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+254,"Materiales, accesorios y suministros médicos",
+2541,"Materiales, accesorios y suministros médicos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+255,"Materiales, accesorios y suministros de laboratorio",
+2551,"Materiales, accesorios y suministros de laboratorio [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+256,"Fibras sintéticas, hules, plásticos y derivados",
+2561,"Fibras sintéticas, hules, plásticos y derivados [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+259,Otros productos químicos,
+2591,"Otros productos químicos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2600,"COMBUSTIBLES, LUBRICANTES Y ADITIVOS",
+261,"COMBUSTIBLES, LUBRICANTES Y ADITIVOS",
+2611,"Combustibles, lubricantes y aditivos para vehículos destinados a servicios públicos y la operación de programas públicos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2612,"Combustibles, lubricantes y aditivos para vehículos destinados a servicios administrativos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2613,"Combustibles, lubricantes y aditivos para vehículos, asignados a servidores públicos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2614,"Combustibles, lubricantes y aditivos para maquinaria y equipo de producción. [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+262,Carbón y sus derivados,
+2700,"VESTUARIO, BLANCOS, PRENDAS DE PROTECCIÓN Y ARTÍCULOS DEPORTIVOS",
+271,Vestuario y uniformes,
+2711,"Vestuario y uniformes [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+272,Prendas de seguridad y protección personal,
+2721,"Prendas de seguridad y protección personal [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+273,Artículos deportivos,
+2731,"Artículos deportivos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+274,Productos textiles,
+2741,"Productos textiles [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+275,"Blancos y otros productos textiles, excepto prendas de vestir",
+2751,"Blancos y otros productos textiles, excepto prendas de vestir [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2800,MATERIALES Y SUMINISTROS PARA SEGURIDAD,
+281,Sustancias y materiales explosivos,
+2811,Sustancias y materiales explosivos [GASTO DE CAPITAL],2
+282,Materiales de seguridad pública,
+2821,"Materiales de seguridad pública [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+283,Prendas de protección para seguridad pública,
+2831,"Prendas de protección para seguridad pública [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+2900,"HERRAMIENTAS, REFACCIONES Y ACCESORIOS MENORES",
+291,Herramientas menores,
+2911,"Herramientas menores [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+292,Refacciones y accesorios menores de edificios,
+2921,"Refacciones y accesorios menores de edificios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+293,"Refacciones y accesorios menores de mobiliario y equipo de administración, educacional y recreativo",
+2931,"Refacciones y accesorios menores de mobiliario y equipo de administración, educacional y recreativo [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+294,Refacciones y accesorios menores de equipo de cómputo y tecnologías de la información,
+2941,"Refacciones y accesorios menores para equipo de cómputo y telecomunicaciones [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+295,Refacciones y accesorios menores de equipo e instrumental médico y de laboratorio,
+2951,"Refacciones y accesorios menores de equipo e instrumental médico y de laboratorio [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+296,Refacciones y accesorios menores de equipo de transporte,
+2961,"Refacciones y accesorios menores de equipo de transporte [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+297,Refacciones y accesorios menores de equipo de defensa y seguridad,
+2971,"Refacciones y accesorios menores de equipo de defensa y seguridad [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+298,Refacciones y accesorios menores de maquinaria y otros equipos,
+2981,"Refacciones y accesorios menores de maquinaria y otros equipos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+299,Refacciones y accesorios menores otros bienes muebles,
+2991,"Refacciones y accesorios menores otros bienes muebles [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3000,SERVICIOS GENERALES,
+3100,SERVICIOS BÁSICOS,
+311,Energía eléctrica,
+3111,"Servicio de energía eléctrica [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3112,"Servicio de alumbrado público [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3113,"Servicio de energía eléctrica para bombeo y tratamiento de agua [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+312,Gas,
+3121,"Servicio de gas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+313,Agua,
+3131,"Servicio de agua [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+314,Telefonía tradicional,
+3141,"Servicio telefónico tradicional [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+315,Telefonía celular,
+3151,"Servicio de telefonía celular [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+316,Servicios de telecomunicaciones y satélites,
+3161,"Servicios de telecomunicaciones y satelitales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+317,"Servicios de acceso de Internet, redes y procesamiento de información",
+3171,"Servicios de acceso de internet, redes y procesamiento de información [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+318,Servicios postales y telegráficos,
+3181,"Servicio postal [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3182,"Servicio telegráfico [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+319,Servicios integrales y otros servicios,
+3191,"Servicios integrales de telecomunicación [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3192,"Servicios integrales de infraestructura de cómputo [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3193,"Contratación de otros servicios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3200,SERVICIOS DE ARRENDAMIENTO,
+321,Arrendamiento de terrenos,
+3211,"Arrendamiento de terrenos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+322,Arrendamiento de edificios,
+3221,"Arrendamiento de edificios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+323,"Arrendamiento de mobiliario y equipo de administración, educacional y recreativo",
+3231,"Arrendamiento de mobiliario y equipo de administración, educacional y recreativo [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3232,"Arrendamiento de equipo y bienes informáticos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3233,"Arrendamiento de equipo de telecomunicaciones [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+324,Arrendamiento de equipo e instrumental médico y de laboratorio,
+3241,"Arrendamiento de equipo e instrumental médico y de laboratorio [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+325,Arrendamiento de equipo de transporte,
+3251,"Arrendamiento de vehículos terrestres, aéreos, marítimos, lacustres y fluviales para servicios públicos y la operación de programas públicos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3252,"Arrendamiento de vehículos terrestres, aéreos, marítimos, lacustres y fluviales para servicios administrativos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3253,"Arrendamiento de vehículos terrestres, aéreos, marítimos, lacustres y fluviales para desastres naturales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3254,"Arrendamiento de vehículos terrestres, aéreos, marítimos, lacustres y fluviales para servidores públicos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+326,"Arrendamiento de maquinaria, otros equipos y herramientas",
+3261,"Arrendamiento de maquinaria, otros equipos y herramientas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+327,Arrendamiento de activos intangibles,
+3271,"Patentes, regalías y otros [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+328,Arrendamiento financiero,
+3281,"Arrendamiento Financiero [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+329,Otros arrendamientos,
+3291,"Arrendamientos especiales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3292,"Arrendamiento de sustancias y productos químicos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3293,"Otros Arrendamientos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3300,"SERVICIOS PROFESIONALES, CIENTÍFICOS, TÉCNICOS Y OTROS SERVICIOS",
+331,"Servicios legales, de contabilidad, auditoría y relacionados",
+3311,"Servicios legales, de contabilidad, auditoría y relacionados [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+332,"Servicios de diseño, arquitectura, ingeniería y actividades relacionadas",
+3321,"Servicios de diseño, arquitectura, ingeniería y actividades relacionadas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+333,"Servicios de consultoría administrativa, procesos, técnica y en tecnologías de la información",
+3331,"Servicios de consultoría administrativa e informática [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+334,Servicios de capacitación,
+3341,"Capacitación institucional [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3342,"Capacitación especializada [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+335,Servicios de investigación científica y desarrollo,
+3351,"Servicios de investigación científica y desarrollo [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+336,"Servicios de apoyo administrativo, traducción, fotocopiado e impresión",
+3361,"Servicios de apoyo administrativo [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3362,"Servicio de impresión de documentos y papelería oficial [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3363,"Servicios de impresión de material informativo derivado de la operación y administración [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3364,"Servicios relacionados con transcripciones [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3365,"Información en medios masivos derivada de la operación y administración de las dependencias y entidades [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3366,"Servicios de digitalización [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+337,Servicios de protección y seguridad,
+3371,"Servicios de protección y seguridad [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+338,Servicios de vigilancia,
+3381,"Servicios de vigilancia [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+339,"Servicios profesionales, científicos y técnicos integrales",
+3391,"Servicios profesionales, científicos y técnicos integrales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3400,"SERVICIOS FINANCIEROS, BANCARIOS Y COMERCIALES",
+341,Servicios financieros y bancarios,
+3411,"Servicios financieros y bancarios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+342,"Servicios de cobranza, investigación crediticia y similar",
+3421,"Servicios de cobranza, investigación crediticia y similar [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+343,"Servicios de recaudación, traslado y custodia de valores",
+3431,"Servicios de recaudación, traslado y custodia de valores [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+344,Seguros de responsabilidad patrimonial y fianzas,
+3441,"Seguro de responsabilidad patrimonial del Estado [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+345,Seguro de bienes patrimoniales,
+3451,"Seguros de bienes patrimoniales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+346,"Almacenaje, envase y embalaje",
+3461,"Almacenaje, embalaje y envase [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+347,Fletes y maniobras,
+3471,"Fletes y maniobras [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+348,Comisiones por ventas,
+3481,"Comisiones por ventas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+349,"Servicios financieros, bancarios y comerciales integrales",
+3491,"Servicios financieros, bancarios y comerciales integrales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3500,"SERVICIOS DE INSTALACIÓN, REPARACIÓN, MANTENIMIENTO Y CONSERVACIÓN",
+351,Conservación y mantenimiento menor de inmuebles,
+3511,"Mantenimiento y conservación menor de inmuebles para la prestación de servicios administrativos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3512,"Mantenimiento y conservación menor de inmuebles para la prestación de servicios públicos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+352,"Instalación, reparación y mantenimiento de mobiliario y equipo de administración, educacional y recreativo",
+3521,"Mantenimiento y conservación de mobiliario y equipo de administración, educacional y recreativo [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+353,"Instalación, reparación y mantenimiento de equipo de cómputo y tecnología de la información",
+3531,"Instalación, reparación y mantenimiento de equipo de cómputo y tecnologías de la información [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+354,"Instalación, reparación y mantenimiento de equipo e instrumental médico y de laboratorio",
+3541,"Instalación, reparación y mantenimiento de equipo e instrumental médico y de laboratorio [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+355,Reparación y mantenimiento de equipo de transporte,
+3551,"Mantenimiento y conservación de vehículos terrestres, aéreos, marítimos, lacustres y fluviales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+356,Reparación y mantenimiento de equipo de defensa y seguridad,
+3561,"Reparación y mantenimiento de equipo de defensa y seguridad [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+357,"Instalación, reparación y mantenimiento de maquinaria, otros equipos y herramienta",
+3571,"Instalación, reparación y mantenimiento de maquinaria y otros equipos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3572,"Instalación, reparación y mantenimiento de maquinaria y equipo de trabajo específico [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3573,"Instalación, reparación y mantenimiento de plantas e instalaciones productivas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+358,Servicios de limpieza y manejo de desechos,
+3581,"Servicios de limpieza y manejo de desechos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+359,Servicios de jardinería y fumigación,
+3591,"Servicios de jardinería y fumigación [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3600,SERVICIOS DE COMUNICACIÓN SOCIAL Y PUBLICIDAD,
+361,"Difusión por radio, televisión y otros medios de mensajes sobre programas y actividades gubernamentales",
+3611,"Difusión por radio, televisión y otros medios de mensajes sobre programas y actividades gubernamentales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+362,"Difusión por radio, televisión y otros medios de mensajes comerciales para promover la venta de bienes o servicios",
+3621,"Difusión por radio, televisión y otros medios de mensajes comerciales para promover la venta de bienes o servicios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+363,"Servicios de creatividad, preproducción y producción de publicidad, excepto internet",
+3631,"Servicios de creatividad, preproducción y producción de publicidad, excepto internet [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+364,Servicios de revelado de fotografías,
+3641,"Servicios de revelado de fotografías [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+365,"Servicios de la industria fílmica, del sonido y del video",
+3651,"Servicios de la industria fílmica, del sonido y del video [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+366,Servicio de creación y difusión de contenido exclusivamente a través de internet,
+3661,"Servicio de creación y difusión de contenido exclusivamente a través de internet [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+369,Otros servicios de información,
+3691,"Otros servicios de información [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3700,SERVICIOS DE TRASLADO Y VIÁTICOS,
+371,Pasajes aéreos,
+3711,"Pasajes aéreos nacionales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3712,"Pasajes aéreos internacionales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+372,Pasajes terrestres,
+3721,"Pasajes terrestres nacionales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3722,"Pasajes terrestres internacionales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+373,"Pasajes marítimos, lacustres y fluviales",
+3731,"Pasajes marítimos, lacustres y fluviales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+374,Autotransporte,
+3741,"Autotransporte [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+375,Viáticos en el país,
+3751,"Viáticos en el país [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+376,Viáticos en el extranjero,
+3761,"Viáticos en el extranjero [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+377,Gastos de instalación y traslado de menaje,
+3771,"Gastos de instalación del personal estatal y traslado de menaje [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+378,Servicios integrales de traslado y viáticos,
+3781,"Servicios integrales de traslado y viáticos nacionales para servidores públicos en el desempeño de comisiones y funciones oficiales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3782,"Servicios integrales traslado y viáticos en el extranjero para servidores públicos en el desempeño de comisiones y funciones oficiales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+379,Otros servicios de traslado y hospedaje,
+3791,"Otros servicios de traslado y hospedaje [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3792,"Gastos para operativos y trabajos de campo en áreas rurales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3800,SERVICIOS OFICIALES,
+381,Gastos de ceremonial,
+3811,"Gastos de ceremonial [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+382,Gastos de orden social y cultural,
+3821,"Gastos de orden social [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3822,"Gastos de orden cultural [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+383,Congresos y convenciones,
+3831,"Congresos y convenciones [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+384,Exposiciones,
+3841,"Exposiciones [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+385,Gastos de representación,
+3851,"Gastos de representación [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3900,OTROS SERVICIOS GENERALES,
+391,Servicios funerarios y de cementerios,
+3911,"Servicios funerarios y de cementerios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+392,Impuestos y derechos,
+3921,"Otros impuestos y derechos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3922,"Impuestos y derechos de exportación [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+393,Impuestos y derechos de importación,
+3931,"Impuestos y derechos de importación [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+394,Sentencias y resoluciones por autoridad competente,
+3941,"Laudos laborales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3942,"Indemnizaciones por expropiación de predios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3943,"Responsabilidad patrimonial [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3944,"Otras erogaciones por resoluciones por autoridad competente [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+395,"Penas, multas, accesorios y actualizaciones",
+3951,"Penas, multas, accesorios y actualizaciones [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+396,Otros gastos por responsabilidades,
+3961,"Pérdidas del erario estatal [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3962,"Otros gastos por responsabilidades [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+397,Utilidades,
+398,Impuesto sobre nóminas y otros que se deriven de una relación laboral,
+3981,"Impuesto sobre nóminas y otros que se deriven de una relación laboral [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+399,Otros servicios generales,
+3991,"Gastos del Gobernador electo y su equipo [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3992,"Subcontratación de servicios con terceros [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3993,"Gastos menores [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3994,"Programa de tarifa especial [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3995,"Otros servicios generales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+3996,"Otros servicios integrales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4000,"TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS",
+4100,TRANSFERENCIAS INTERNAS Y ASIGNACIONES AL SECTOR PÚBLICO,
+411,Asignaciones presupuestarias al Poder Ejecutivo,
+4111,"Fortalecimiento y mejora de programas y proyectos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4112,"Fortalecimiento de los Servicios de Salud [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4113,"Fondo Único General Art. 112 Código Fiscal del Estado de Jalisco [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4114,"Fondo Estatal de Ayuda, Asistencia y Reparación Integral de Víctimas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+412,Asignaciones presupuestarias al Poder Legislativo,
+4121,Asignaciones presupuestales al Poder Legislativo para servicios personales [GASTO CORRIENTE],1
+4122,"Asignaciones presupuestales al Poder Legislativo para materiales y suministros [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4123,"Asignaciones presupuestales al Poder Legislativo para servicios generales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4124,"Asignaciones presupuestales al Poder Legislativo para transferencias, asignaciones, subsidios y otras ayudas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4125,"Asignaciones presupuestales al Poder Legislativo para bienes muebles, inmuebles e intangibles [GASTO DE CAPITAL]",2
+4126,Asignaciones presupuestales al Poder Legislativo para inversión pública [GASTO DE CAPITAL],2
+4127,Asignaciones presupuestales al Poder Legislativo para inversiones financieras y otras provisiones [TRANSITORIA],TRAN
+4128,"Asignaciones presupuestales al Poder Legislativo para cubrir el déficit de operación y los gastos de administración [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4129,"Asignaciones presupuestales al Poder Legislativo para deuda pública [GASTO CORRIENTE, AMORTIZACIÓN DE LA DEUDA Y DISMINUCIÓN DE PASIVOS]","1,3"
+413,Asignaciones presupuestarias al Poder Judicial,
+4131,Asignaciones presupuestales al Poder Judicial para servicios personales [GASTO CORRIENTE],1
+4132,"Asignaciones presupuestales al Poder Judicial para materiales y suministros [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4133,"Asignaciones presupuestales al Poder Judicial para servicios generales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4134,"Asignaciones presupuestales al Poder Judicial para transferencias, asignaciones, subsidios y otras ayudas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4135,"Asignaciones presupuestales al Poder Judicial para bienes muebles, inmuebles e intangibles [GASTO DE CAPITAL]",2
+4136,Asignaciones presupuestales al Poder Judicial para inversión pública [GASTO DE CAPITAL],2
+4137,Asignaciones presupuestales al Poder Judicial para inversiones financieras y otras provisiones [TRANSITORIA],TRAN
+4138,"Asignaciones presupuestales al Poder Judicial para cubrir el déficit de operación y los gastos de administración [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4139,"Asignaciones presupuestales al Poder Judicial para deuda pública [GASTO CORRIENTE, AMORTIZACIÓN DE LA DEUDA Y DISMINUCIÓN DE PASIVOS]","1,3"
+414,Asignaciones presupuestarias a Órganos Autónomos,
+4141,Asignaciones presupuestales a Órganos Autónomos para servicios personales [GASTO CORRIENTE],1
+4142,"Asignaciones presupuestales a Órganos Autónomos para materiales y suministros [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4143,"Asignaciones presupuestales a Órganos Autónomos para servicios generales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4144,"Asignaciones presupuestales a Órganos Autónomos para transferencias, asignaciones, subsidios y otras ayudas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4145,"Asignaciones presupuestales a Órganos Autónomos para bienes muebles, inmuebles e intangibles [GASTO DE CAPITAL]",2
+4146,Asignaciones presupuestales a Órganos Autónomos para inversión pública [GASTO DE CAPITAL],2
+4147,Asignaciones presupuestales a Órganos Autónomos para inversiones financieras y otras provisiones [TRANSITORIA],TRAN
+4148,"Asignaciones presupuestales a Órganos Autónomos para cubrir el déficit de operación y los gastos de administración [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4149,"Asignaciones presupuestales a Órganos Autónomos para deuda pública [GASTO CORRIENTE, AMORTIZACIÓN DE LA DEUDA Y DISMINUCIÓN DE PASIVOS]","1,3"
+415,Transferencias internas otorgadas a entidades paraestatales no empresariales y no financieras,
+4151,Transferencias internas otorgadas a entidades paraestatales no empresariales y no financieras para servicios personales [GASTO CORRIENTE],1
+4152,"Transferencias internas otorgadas a entidades paraestatales no empresariales y no financieras para materiales y suministros [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4153,"Transferencias internas otorgadas a entidades paraestatales no empresariales y no financieras para servicios generales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4154,"Transferencias internas otorgadas a entidades paraestatales no empresariales y no financieras para transferencias, asignaciones, subsidios y otras ayudas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4155,"Transferencias internas otorgadas a entidades paraestatales no empresariales y no financieras para bienes muebles, inmuebles e intangibles [GASTO DE CAPITAL]",2
+4156,Transferencias internas otorgadas a entidades paraestatales no empresariales y no financieras para inversión pública [GASTO DE CAPITAL],2
+4157,Transferencias internas otorgadas a entidades paraestatales no empresariales y no financieras para inversiones financieras y otras provisiones [TRANSITORIA],TRAN
+4158,"Transferencias otorgadas a entidades paraestatales no empresariales y no financieras para cubrir el déficit de operación y los gastos de administración [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4159,"Transferencias internas otorgadas a entidades paraestatales no empresariales y no financieras para deuda pública [GASTO CORRIENTE, AMORTIZACIÓN DE LA DEUDA Y DISMINUCIÓN DE PASIVOS]","1,3"
+416,Transferencias internas otorgadas a entidades paraestatales empresariales y no financieras,
+417,Transferencias internas otorgadas a fideicomisos públicos empresariales y no financieros,
+418,Transferencias internas otorgadas a instituciones paraestatales públicas financieras,
+419,Transferencias internas otorgadas a fideicomisos públicos financieros,
+4191,"Transferencias internas otorgadas a fideicomisos públicos financieros [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4200,TRANSFERENCIAS AL RESTO DEL SECTOR PÚBLICO,
+421,Transferencias otorgadas a entidades paraestatales no empresariales y no financieras,
+4211,"Procuraduría Federal del Consumidor (PROFECO) [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4212,"Instituto para el Desarrollo Técnico de las Haciendas Públicas (INDETEC) [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4213,"Universidad de Guadalajara (UdeG) [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+422,Transferencias otorgadas para entidades paraestatales empresariales y no financieras,
+423,Transferencias otorgadas para instituciones paraestatales públicas financieras,
+424,Transferencias otorgadas a entidades federativas y municipios,
+4241,"Fondo Complementario para el Desarrollo Regional (FONDEREG) [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4242,"Desarrollo de obra pública en los municipios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4246,"Programas y conceptos complementarios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4247,"Fondo común concursable para la infraestructura (FOCOCI) [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+425,Transferencias a fideicomisos de entidades federativas y municipios,
+4251,"Transferencias a fideicomisos de entidades federativas y municipios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4300,SUBSIDIOS Y SUBVENCIONES,
+431,Subsidios a la producción,
+4311,"Apoyo a proyectos productivos rurales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4312,"Fomento de actividades pesqueras y acuícolas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4313,"Fomento de actividades productivas y agroindustriales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4314,"Apoyo a la agricultura [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4315,"Apoyo para el fomento y protección pecuario [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4316,"Otros subsidios a la producción [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+432,Subsidios a la distribución,
+4321,Fomento a proyectos de comercialización y distribución [GASTO CORRIENTE],1
+433,Subsidios a la inversión,
+4331,Subsidio a la promoción económica del Estado [GASTO CORRIENTE],1
+4332,Subsidio a la promoción turística del Estado [GASTO CORRIENTE],1
+4333,Otros subsidios para inversión [GASTO CORRIENTE],1
+434,Subsidios a la prestación de servicios públicos,
+4341,Subsidios a la prestación de servicios públicos [GASTO CORRIENTE],1
+435,Subsidios para cubrir diferenciales de tasas de interés,
+436,Subsidios a la vivienda,
+4361,Subsidio para la adquisición de vivienda de interés social [GASTO CORRIENTE],1
+437,Subvenciones al consumo,
+4371,Subvenciones al consumo [GASTO CORRIENTE],1
+438,Subsidios a entidades federativas y municipios,
+4381,Subsidios a Municipios [GASTO CORRIENTE],1
+4382,Subsidios a Municipios para inversión pública par y par [GASTO DE CAPITAL],2
+4383,Subsidios a Municipios para servicios públicos par y par [GASTO CORRIENTE],1
+4384,Subsidios a Municipios para Inversión Pública [GASTO DE CAPITAL],2
+439,Otros subsidios,
+4391,"Otros subsidios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4400,AYUDAS SOCIALES,
+441,Ayudas sociales a personas,
+4411,"Ayuda a preliberados y menores infractores [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4412,"Ayudas para gastos por servicios de traslado de personas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4413,"Ayuda para la asistencia social extraordinaria [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4414,"Ayuda al seguro escolar contra accidentes personales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4415,"Ayuda para el pago a los ahorradores defraudados por las cajas de ahorro [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4416,"Ayuda para el bienestar de los Jaliscienses [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4417,"Ayuda para el desarrollo social del Estado [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4418,"Ayuda para erogaciones imprevistas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4419,"Ayudas para erogaciones contingentes [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+442,Becas y otras ayudas para programas de capacitación,
+4421,Ayudas para capacitación y becas [GASTO CORRIENTE],1
+4422,Ayudas a pre y premios [GASTO CORRIENTE],1
+4423,Ayudas del programa estatal de apoyo al empleo [GASTO CORRIENTE],1
+4424,Ayudas a proyectos culturales y artísticos [GASTO CORRIENTE],1
+443,Ayudas sociales a instituciones de enseñanza,
+4431,"Ayuda para el desarrollo de programas educativos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4432,"Ayuda a la promoción de la cultura y las artes del Estado [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+444,Ayudas sociales a actividades científicas o académicas,
+4441,"Apoyos a actividades académicas o científicas, el desarrollo tecnológico y la innovación [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4442,"Apoyos para la investigación y conservación del patrimonio cultural [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+445,Ayudas sociales a instituciones sin fines de lucro,
+4451,"Ayudas sociales a instituciones sin fines de lucro [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+446,Ayudas sociales a cooperativas,
+4461,"Ayudas sociales a cooperativas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+447,Ayudas sociales a entidades de interés público,
+4471,"Prerrogativas a partidos políticos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+448,Ayudas por desastres naturales y otros siniestros,
+4481,"Ayudas por desastres naturales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4482,"Ayudas por otros siniestros [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4500,PENSIONES Y JUBILACIONES,
+451,Pensiones,
+4511,Pensiones [PENSIONES Y JUBILACIONES],4
+452,Jubilaciones,
+4521,Jubilaciones [PENSIONES Y JUBILACIONES],4
+459,Otras pensiones y jubilaciones,
+4591,Otras pensiones y jubilaciones [PENSIONES Y JUBILACIONES],4
+4600,"TRANSFERENCIAS A FIDEICOMISOS, MANDATOS Y OTROS ANÁLOGOS",
+461,Transferencias a fideicomisos del Poder Ejecutivo,
+4611,"Transferencias a fideicomisos del Poder Ejecutivo para servicios personales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4612,"Transferencias a fideicomisos del Poder Ejecutivo para materiales y suministros [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4613,"Transferencias a fideicomisos del Poder Ejecutivo para servicios generales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4614,"Transferencias a fideicomisos del Poder Ejecutivo para transferencia, asignaciones, subsidios y otras ayudas [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4615,"Transferencias a fideicomisos del Poder Ejecutivo para bienes muebles, inmuebles e intangibles [GASTO DE CAPITAL]",2
+4616,Transferencias a fideicomisos del Poder Ejecutivo para inversión pública [GASTO DE CAPITAL],2
+4617,"Transferencias a fideicomisos del Poder Ejecutivo para Inversiones financieras y otras provisiones. [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4618,"Transferencias a fideicomisos del Poder Ejecutivo para cubrir el déficit de operación y los gastos de administración. [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4619,"Transferencias a fideicomisos del Poder Ejecutivo para deuda pública [GASTO CORRIENTE, AMORTIZACIÓN DE LA DEUDA Y DISMINUCIÓN DE PASIVOS]","1,3"
+462,Transferencias a fideicomisos del Poder Legislativo,
+4621,"Transferencias a fideicomisos del Poder Legislativo estatales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+463,Transferencias a fideicomisos del Poder Judicial,
+4631,"Transferencias a fideicomisos del Poder Judicial estatales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+464,Transferencias a fideicomisos públicos de entidades paraestatales no empresariales y no financieras,
+4641,"Transferencias a fideicomisos públicos de entidades paraestatales no empresariales y no financieras [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+465,Transferencias a fideicomisos públicos de entidades paraestatales empresariales y no financieras,
+4651,"Transferencias a fideicomisos públicos de entidades paraestatales empresariales y no financieras [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+466,Transferencias a fideicomisos de instituciones públicas financieras,
+4661,"Transferencias a fideicomisos de instituciones públicas financieras [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+469,Otras transferencias a fideicomisos,
+4691,"Otras transferencias a fideicomisos [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4700,TRANSFERENCIAS A LA SEGURIDAD SOCIAL,
+471,Transferencias por obligación de ley,
+4711,Transferencias por obligación de ley [GASTO CORRIENTE],1
+4800,DONATIVOS,
+481,Donativos a instituciones sin fines de lucro,
+4811,Donativos a instituciones sin fines de lucro [GASTO CORRIENTE],1
+482,Donativos a entidades federativas,
+4821,Donativos a entidades federativas o municipios [GASTO CORRIENTE],1
+4822,Donativos a Municipios en especie de Obra Pública ejecutada por el Gobierno del Estado [GASTO DE CAPITAL],2
+483,Donativos a fideicomisos privados,
+4831,Donativos a fideicomisos privados [GASTO CORRIENTE],1
+484,Donativos a fideicomisos estatales,
+4841,Donativos a fideicomisos estatales [GASTO CORRIENTE],1
+485,Donativos internacionales,
+4851,Donativos internacionales [GASTO CORRIENTE],1
+4900,TRANSFERENCIAS AL EXTERIOR,
+491,Transferencias para gobiernos extranjeros,
+492,Transferencias para organismos internacionales,
+4921,"Cuotas y aportaciones a organismos internacionales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+4922,"Otras aportaciones internacionales [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+493,Transferencias para el sector privado externo,
+4931,"Transferencias para el sector privado externo [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+5000,"BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+5100,MOBILIARIO Y EQUIPO DE ADMINISTRACIÓN,
+511,Muebles de oficina y estantería,
+5111,Muebles de oficina y estantería [GASTO DE CAPITAL],2
+512,"Muebles, excepto de oficina y estantería",
+5121,"Muebles, excepto de oficina y estantería [GASTO DE CAPITAL]",2
+513,"Bienes artísticos, culturales y científicos",
+5131,Bienes artísticos y culturales [GASTO DE CAPITAL],2
+514,Objetos de valor,
+515,Equipo de cómputo y de tecnologías de la información,
+5151,Equipo de cómputo y de tecnología de la información [GASTO DE CAPITAL],2
+519,Otros mobiliarios y equipos de administración,
+5191,Otros mobiliarios y equipos de administración [GASTO DE CAPITAL],2
+5192,"Adjudicaciones, indemnizaciones y expropiaciones de bienes muebles [GASTO DE CAPITAL]",2
+5200,MOBILIARIO Y EQUIPO EDUCACIONAL Y RECREATIVO,
+521,Equipos y aparatos audiovisuales,
+5211,Equipos y aparatos audiovisuales [GASTO DE CAPITAL],2
+522,Aparatos deportivos,
+5221,Aparatos deportivos [GASTO DE CAPITAL],2
+523,Cámaras fotográficas y de video,
+5231,Cámaras fotográficas y de video [GASTO DE CAPITAL],2
+529,Otro mobiliario y equipo educacional y recreativo,
+5291,Otro mobiliario y equipo educacional y recreativo [GASTO DE CAPITAL],2
+5300,EQUIPO E INSTRUMENTAL MÉDICO Y DE LABORATORIO,
+531,Equipo médico y de laboratorio,
+5311,Equipo médico y de laboratorio [GASTO DE CAPITAL],2
+532,Instrumental médico y de laboratorio,
+5321,Instrumental médico y de laboratorio [GASTO DE CAPITAL],2
+5400,VEHÍCULOS Y EQUIPO DE TRANSPORTE,
+541,Vehículos y equipo terrestre,
+5411,"Vehículos y equipo terrestres, destinados a servicios públicos y la operación de programas públicos [GASTO DE CAPITAL]",2
+5412,"Vehículos y equipo terrestres, destinados a servicios administrativos [GASTO DE CAPITAL]",2
+5413,"Vehículos y equipo terrestres, destinados exclusivamente para desastres naturales [GASTO DE CAPITAL]",2
+5414,"Vehículos y equipo terrestres, destinados a servidores públicos [GASTO DE CAPITAL]",2
+542,Carrocerías y remolques,
+5421,"Carrocerías, remolques y equipo auxiliar de transporte [GASTO DE CAPITAL]",2
+543,Equipo aeroespacial,
+5431,"Vehículos y equipo aéreos, destinados a servicios públicos y la operación de programas públicos [GASTO DE CAPITAL]",2
+5432,"Vehículos y equipo aéreos, destinados exclusivamente para desastres naturales [GASTO DE CAPITAL]",2
+544,Equipo ferroviario,
+5441,Equipo ferroviario [GASTO DE CAPITAL],2
+545,Embarcaciones,
+5451,Embarcaciones destinadas a servicios públicos y la operación de programas públicos [GASTO DE CAPITAL],2
+5452,Construcción de embarcaciones [GASTO DE CAPITAL],2
+549,Otros equipos de transporte,
+5491,Otros equipos de transporte [GASTO DE CAPITAL],2
+5500,EQUIPO DE DEFENSA Y SEGURIDAD,
+551,Equipo de defensa y seguridad,
+5511,Equipo de defensa y seguridad [GASTO DE CAPITAL],2
+5600,"MAQUINARIA, OTROS EQUIPOS Y HERRAMIENTAS",
+561,Maquinaria y equipo agropecuario,
+5611,Maquinaria y equipo agropecuario [GASTO DE CAPITAL],2
+562,Maquinaria y equipo industrial,
+5621,Maquinaria y equipo industrial [GASTO DE CAPITAL],2
+563,Maquinaria y equipo de construcción,
+5631,Maquinaria y equipo de construcción [GASTO DE CAPITAL],2
+564,"Sistemas de aire acondicionado, calefacción y de refrigeración industrial y comercial",
+5641,"Sistemas de aire acondicionado, calefacción y de refrigeración [GASTO DE CAPITAL]",2
+565,Equipo de comunicación y telecomunicación,
+5651,Equipos de comunicación y telecomunicación [GASTO DE CAPITAL],2
+566,"Equipos de generación eléctrica, aparatos y accesorios eléctricos",
+5661,"Equipo de generación eléctrica, aparatos y accesorios eléctricos [GASTO DE CAPITAL]",2
+567,Herramientas y máquinas-herramienta,
+5671,Herramientas y máquinas herramienta [GASTO DE CAPITAL],2
+5672,Refacciones y accesorios mayores [GASTO DE CAPITAL],2
+569,Otros equipos,
+5691,Equipo para semaforización [GASTO DE CAPITAL],2
+5692,Equipo de ingeniería y diseño [GASTO DE CAPITAL],2
+5693,Bienes muebles por arrendamiento financiero [GASTO DE CAPITAL],2
+5694,Maquinaria y equipo diverso [GASTO DE CAPITAL],2
+5700,ACTIVOS BIOLÓGICOS,
+571,Bovinos,
+5711,Bovinos [GASTO DE CAPITAL],2
+572,Porcinos,
+5721,Porcinos [GASTO DE CAPITAL],2
+573,Aves,
+5731,Aves [GASTO DE CAPITAL],2
+574,Ovinos y caprinos,
+5741,Ovinos y caprinos [GASTO DE CAPITAL],2
+575,Peces y acuicultura,
+5751,Peces y acuicultura [GASTO DE CAPITAL],2
+576,Equinos,
+5761,Equinos [GASTO DE CAPITAL],2
+577,Especies menores y de zoológico,
+5771,Especies menores y de zoológico [GASTO DE CAPITAL],2
+578,Árboles y plantas,
+5781,Árboles y plantas [GASTO DE CAPITAL],2
+579,Otros activos biológicos,
+5791,Otros activos biológicos [GASTO DE CAPITAL],2
+5800,BIENES INMUEBLES,
+581,Terrenos,
+5811,Terrenos [GASTO DE CAPITAL],2
+582,Viviendas,
+5821,Viviendas [GASTO DE CAPITAL],2
+583,Edificios no residenciales,
+5831,Edificios no residenciales [GASTO DE CAPITAL],2
+589,Otros bienes inmuebles,
+5891,"Adjudicaciones, expropiaciones e indemnizaciones de inmuebles [GASTO DE CAPITAL]",2
+5892,Bienes inmuebles en la modalidad de proyectos de infraestructura productiva de largo plazo [GASTO DE CAPITAL],2
+5893,Bienes inmuebles por arrendamiento financiero [GASTO DE CAPITAL],2
+5894,Otros bienes inmuebles [GASTO DE CAPITAL],2
+5900,ACTIVOS INTANGIBLES,
+591,Software,
+5911,Software [GASTO DE CAPITAL],2
+592,Patentes,
+5921,Patentes [GASTO DE CAPITAL],2
+593,Marcas,
+5931,Marcas [GASTO DE CAPITAL],2
+594,Derechos,
+5941,Derechos [GASTO DE CAPITAL],2
+595,Concesiones,
+5951,Concesiones [GASTO DE CAPITAL],2
+596,Franquicias,
+5961,Franquicias [GASTO DE CAPITAL],2
+597,Licencias informáticas e intelectuales,
+5971,Licencias informáticas e intelectuales [GASTO DE CAPITAL],2
+598,"Licencias industriales, comerciales y otras",
+5981,"Licencias industriales, comerciales y otras [GASTO DE CAPITAL]",2
+599,Otros activos intangibles,
+5991,Otros activos intangibles [GASTO DE CAPITAL],2
+6000,INVERSIÓN PÚBLICA,
+6100,OBRA PÚBLICA EN BIENES DE DOMINIO PÚBLICO,
+611,Edificación habitacional,
+6111,Obras de construcción nueva y ampliación de edificios habitacionales [GASTO DE CAPITAL],2
+6112,"Mantenimiento, remodelación y reparación integral de edificaciones habitacionales [GASTO DE CAPITAL]",2
+612,Edificación no habitacional,
+6121,Edificación de naves y plantas industriales [GASTO DE CAPITAL],2
+6122,"Edificación de inmuebles comerciales, institucionales y de servicios [GASTO DE CAPITAL]",2
+6123,Edificaciones educativas y culturales [GASTO DE CAPITAL],2
+6124,Edificación de recreación y esparcimiento [GASTO DE CAPITAL],2
+6125,Edificaciones de seguridad pública [GASTO DE CAPITAL],2
+6126,Edificaciones para servicio médico y asistencial [GASTO DE CAPITAL],2
+6127,Edificaciones uso turístico [GASTO DE CAPITAL],2
+6128,Otras edificaciones no residenciales [GASTO DE CAPITAL],2
+613,"Construcción de obras para el abastecimiento de agua, petróleo, gas, electricidad y telecomunicaciones",
+6131,Obras de generación y conducción de energía eléctrica [GASTO DE CAPITAL],2
+6132,"Obras para el tratamiento, distribución y suministro de agua y drenaje [GASTO DE CAPITAL]",2
+6133,Construcción de sistemas de riego agrícola [GASTO DE CAPITAL],2
+6134,Obras para telecomunicaciones [GASTO DE CAPITAL],2
+614,División de terrenos y construcción de obras de urbanización,
+6141,Obras de pre-edificación y división de terrenos [GASTO DE CAPITAL],2
+6142,Construcción de obras de urbanización [GASTO DE CAPITAL],2
+615,Construcción de vías de comunicación,
+6151,"Construcción de carreteras, puentes y similares [GASTO DE CAPITAL]",2
+6152,Instalación de señalamientos y protecciones de obras viales [GASTO DE CAPITAL],2
+6153,Construcción aeroportuaria [GASTO DE CAPITAL],2
+616,Otras construcciones de ingeniería civil u obra pesada,
+6161,Construcción presas y represas [GASTO DE CAPITAL],2
+6162,"Obras marítimas, fluviales y subacuáticas [GASTO DE CAPITAL]",2
+6163,Obras para transporte eléctrico y ferroviario [GASTO DE CAPITAL],2
+6164,Otras obras de ingeniería civil u obra pesada [GASTO DE CAPITAL],2
+617,Instalaciones y equipamiento en construcciones,
+6171,Instalaciones y equipamiento en construcciones [GASTO DE CAPITAL],2
+619,Trabajos de acabados en edificaciones y otros trabajos especializados,
+6191,Ensamble y edificación de construcciones prefabricadas [GASTO DE CAPITAL],2
+6192,Obras de terminación y acabado de edificios [GASTO DE CAPITAL],2
+6193,Servicios de supervisión de obras [GASTO DE CAPITAL],2
+6194,Servicios para la liberación de derechos de vía [GASTO DE CAPITAL],2
+6195,Otros servicios relacionados con obras públicas [GASTO DE CAPITAL],2
+6200,OBRA PÚBLICA EN BIENES PROPIOS,
+621,Edificación habitacional,
+6211,Obras de construcción nueva y ampliación de edificios habitacionales [GASTO DE CAPITAL],2
+6212,"Mantenimiento, remodelación y reparación integral de edificaciones habitacionales [GASTO DE CAPITAL]",2
+622,Edificación no habitacional,
+6221,Edificación de naves y plantas industriales [GASTO DE CAPITAL],2
+6222,"Edificación de inmuebles comerciales, institucionales y de servicios [GASTO DE CAPITAL]",2
+6223,Edificaciones educativas y culturales [GASTO DE CAPITAL],2
+6224,Edificaciones de recreación y esparcimiento [GASTO DE CAPITAL],2
+6225,Edificaciones de seguridad pública [GASTO DE CAPITAL],2
+6226,Edificaciones para servicio médico y asistencial [GASTO DE CAPITAL],2
+6227,Edificaciones uso turístico [GASTO DE CAPITAL],2
+6228,Otras edificaciones no residenciales [GASTO DE CAPITAL],2
+6229,Otras obras de construcción para edificios no habitacionales [GASTO DE CAPITAL],2
+623,"Construcción de obras para el abastecimiento de agua, petróleo, gas, electricidad y telecomunicaciones",
+6231,Obras de generación y conducción de energía eléctrica [GASTO DE CAPITAL],2
+6232,"Obras para el tratamiento, distribución y suministro de agua y drenaje [GASTO DE CAPITAL]",2
+6233,Construcción de sistemas de riego agrícola [GASTO DE CAPITAL],2
+6234,Obras para telecomunicaciones [GASTO DE CAPITAL],2
+624,División de terrenos y construcción de obras de urbanización,
+6241,Obras de pre-edificación y división de terrenos [GASTO DE CAPITAL],2
+6242,Construcción de obras de urbanización [GASTO DE CAPITAL],2
+625,Construcción de vías de comunicación,
+6251,"Construcción de carreteras, puentes y similares [GASTO DE CAPITAL]",2
+6252,Instalación de señalamientos y protecciones de obras viales [GASTO DE CAPITAL],2
+6253,Construcción aeroportuaria [GASTO DE CAPITAL],2
+626,Otras construcciones de ingeniería civil u obra pesada,
+6261,Construcción presas y represas [GASTO DE CAPITAL],2
+6262,"Obras marítimas, fluviales y subacuáticas [GASTO DE CAPITAL]",2
+6263,Obras para transporte eléctrico y ferroviario [GASTO DE CAPITAL],2
+6264,Otras obras de ingeniería civil u obra pesada [GASTO DE CAPITAL],2
+627,Instalaciones y equipamiento en construcciones,
+6271,Instalaciones y equipamiento en construcciones [GASTO DE CAPITAL],2
+629,Trabajos de acabados en edificaciones y otros trabajos especializados,
+6291,Ensamble y edificación de construcciones prefabricadas [GASTO DE CAPITAL],2
+6292,Obras de terminación y acabado de edificios. [GASTO DE CAPITAL],2
+6293,Servicios de supervisión de obras [GASTO DE CAPITAL],2
+6294,Servicios para la liberación de derechos de vía [GASTO DE CAPITAL],2
+6295,Otros servicios relacionados con obras públicas [GASTO DE CAPITAL],2
+6300,PROYECTOS PRODUCTIVOS Y ACCIONES DE FOMENTO,
+631,"Estudios, formulación y evaluación de proyectos productivos no incluidos en conceptos anteriores de este capítulo",
+6311,"Estudios, formulación y evaluación de proyectos (PPS) [GASTO DE CAPITAL]",2
+632,Ejecución de proyectos productivos no incluidos en conceptos anteriores de este capítulo,
+6321,Otros de proyectos productivos (PPS) [GASTO DE CAPITAL],2
+6322,Fondo complementario para el desarrollo regional (FONDEREG) [GASTO DE CAPITAL],2
+6323,Fondo común concursable para la infraestructura (FOCOCI) [GASTO DE CAPITAL],2
+6324,Proyectos estratégicos de desarrollo regional [GASTO DE CAPITAL],2
+7000,INVERSIONES FINANCIERAS Y OTRAS PROVISIONES,
+7100,INVERSIONES PARA EL FOMENTO DE ACTIVIDADES PRODUCTIVAS,
+711,Créditos otorgados por entidades federativas y municipios al sector social y privado para el fomento de actividades productivas.,
+7111,Créditos para adquisición de bienes muebles e inmuebles [GASTO DE CAPITAL],2
+7112,Créditos para la construcción y reconstrucción de obras e instalaciones [GASTO DE CAPITAL],2
+712,Créditos otorgados por las entidades federativas a municipios para el fomento de actividades productivas,
+7121,Créditos otorgados por las entidades federativas a municipios para el fomento de actividades productivas [GASTO DE CAPITAL],2
+7200,ACCIONES Y PARTICIPACIONES DE CAPITAL,
+721,Acciones y participaciones de capital en entidades paraestatales no empresariales y no financieras con fines de política económica.,
+7211,Acciones y participaciones de capital en entidades paraestatales no empresariales y no financieras con fines de política económica [GASTO DE CAPITAL],2
+722,Acciones y participaciones de capital en entidades paraestatales empresariales y no financieras con fines de política económica,
+7221,Acciones y participaciones de capital en entidades paraestatales empresariales y no financieras con fines de política económica [GASTO DE CAPITAL],2
+723,Acciones y participaciones de capital en instituciones paraestatales públicas financieras con fines de política económica,
+7231,Acciones y participaciones de capital en instituciones paraestatales públicas financieras con fines de política económica [GASTO DE CAPITAL],2
+724,Acciones y participaciones de capital en el sector privado con fines de política económica,
+7241,Acciones y participaciones de capital en el sector privado con fines de política económica [GASTO DE CAPITAL],2
+725,Acciones y participaciones de capital en organismos internacionales con fines de política económica,
+7251,Acciones y participaciones de capital en organismos internacionales con fines de política económica [GASTO DE CAPITAL],2
+726,Acciones y participaciones de capital en el sector externo con fines de política económica,
+7261,Acciones y participaciones de capital en el sector externo con fines de política económica [GASTO DE CAPITAL],2
+727,Acciones y participaciones de capital en el sector público con fines de gestión de liquidez,
+7271,Acciones y participaciones de capital en el sector público con fines de gestión de liquidez [GASTO DE CAPITAL],2
+728,Acciones y participaciones de capital en el sector privado con fines de gestión de liquidez,
+7281,Acciones y participaciones de capital en el sector privado con fines de gestión de liquidez [GASTO DE CAPITAL],2
+729,Acciones y participaciones de capital en el sector externo con fines de gestión de liquidez,
+7291,Acciones y participaciones de capital en el sector externo con fines de gestión de liquidez [GASTO DE CAPITAL],2
+7300,COMPRA DE TÍTULOS Y VALORES,
+731,Bonos,
+732,Valores representativos de deuda adquiridos con fines de política económica,
+733,Valores representativos de deuda adquiridos con fines de gestión de liquidez,
+734,Obligaciones negociables adquiridas con fines de política económica,
+735,Obligaciones negociables adquiridas con fines de gestión de liquidez,
+739,Otros valores,
+7400,CONCESIÓN DE PRÉSTAMOS,
+741,Concesión de préstamos a entidades paraestatales no empresariales y no financieras con fines de política económica,
+7411,Concesión de préstamos a entidades paraestatales no empresariales y no financieras con fines de política económica [GASTO DE CAPITAL],2
+742,Concesión de préstamos a entidades paraestatales empresariales y no financieras con fines de política económica,
+7421,Concesión de préstamos a entidades paraestatales empresariales y no financieras con fines de política económica [GASTO DE CAPITAL],2
+743,Concesión de préstamos a instituciones paraestatales públicas financieras con fines de política económica,
+7431,Concesión de préstamos a instituciones paraestatales públicas financieras con fines de política económica [GASTO DE CAPITAL],2
+744,Concesión de préstamos a entidades federativas y municipios con fines de política económica,
+7441,Concesión de préstamos a entidades federativas y municipios con fines de política económica [GASTO DE CAPITAL],2
+745,Concesión de préstamos al sector privado con fines de política económica,
+7451,Concesión de préstamos al sector privado con fines de política económica [GASTO DE CAPITAL],2
+746,Concesión de préstamos al sector externo con fines de política económica,
+7461,Concesión de préstamos al sector externo con fines de política económica [GASTO DE CAPITAL],2
+747,Concesión de préstamos al sector público con fines de gestión de liquidez,
+7471,Concesión de préstamos al sector público con fines de gestión de liquidez [GASTO DE CAPITAL],2
+748,Concesión de préstamos al sector privado con fines de gestión de liquidez,
+7481,Concesión de préstamos al sector privado con fines de gestión de liquidez [GASTO DE CAPITAL],2
+749,Concesión de préstamos al sector externo con fines de gestión de liquidez,
+7491,Concesión de préstamos al sector externo con fines de gestión de liquidez [GASTO DE CAPITAL],2
+7500,"INVERSIONES EN FIDEICOMISOS, MANDATOS Y OTROS  ANÁLOGOS",
+751,Inversiones en fideicomisos del Poder Ejecutivo,
+7511,Inversiones en fideicomisos del Poder Ejecutivo [GASTO DE CAPITAL],2
+752,Inversiones en fideicomisos del Poder Legislativo,
+7521,Inversiones en fideicomisos del Poder Legislativo [GASTO DE CAPITAL],2
+753,Inversiones en fideicomisos del Poder Judicial,
+7531,Inversiones en fideicomisos del Poder Judicial [GASTO DE CAPITAL],2
+754,Inversiones en fideicomisos públicos no empresariales y no financieros,
+7541,Inversiones en fideicomisos públicos no empresariales y no financieros [GASTO DE CAPITAL],2
+755,Inversiones en fideicomisos públicos empresariales y no financieros,
+7551,Inversiones en fideicomisos públicos empresariales y no financieros considerados entidades paraestatales [GASTO DE CAPITAL],2
+756,Inversiones en fideicomisos públicos financieros,
+7561,Inversiones en fideicomisos públicos considerados entidades paraestatales o paramunicipales [GASTO DE CAPITAL],2
+7562,Inversiones en mandatos y otros análogos [GASTO DE CAPITAL],2
+757,Inversiones en fideicomisos de entidades federativas,
+7571,Inversiones en fideicomisos de entidades federativas [GASTO DE CAPITAL],2
+758,Inversiones en fideicomisos de municipios,
+7581,Inversiones en fideicomisos de municipios [GASTO DE CAPITAL],2
+759,Otras inversiones en fideicomisos,
+7591,Otras inversiones en fideicomisos [GASTO DE CAPITAL],2
+7600,OTRAS INVERSIONES FINANCIERAS,
+761,Depósitos a largo plazo en moneda nacional,
+762,Depósitos a largo plazo en moneda extranjera,
+7900,PROVISIONES PARA CONTINGENCIAS Y OTRAS EROGACIONES ESPECIALES,
+791,Contingencias por fenómenos naturales,
+7911,Contingencias por fenómenos naturales [TRANSITORIA],TRAN
+792,Contingencias socioeconómicas,
+7921,Contingencias socioeconómicas [TRANSITORIA],TRAN
+799,Otras erogaciones especiales,
+7991,Provisiones para erogaciones especiales [TRANSITORIA],TRAN
+7992,Provisiones para erogaciones complementarias para programas federales [TRANSITORIA],TRAN
+7993,Provisiones para erogaciones por presupuestos participativos [TRANSITORIA],TRAN
+7994,Provisiones para erogaciones convenidas a entidades paraestatales no empresariales y no financieras [TRANSITORIA],TRAN
+7995,Provisiones para erogaciones a los fideicomisos [TRANSITORIA],TRAN
+7996,Provisiones para erogaciones por convenios [TRANSITORIA],TRAN
+7997,Provisiones para erogaciones por mecanismos de gobernanza [TRANSITORIA],TRAN
+7998,Fondo para Inversión Pública Productiva [TRANSITORIA],TRAN
+8000,PARTICIPACIONES Y APORTACIONES,
+8100,PARTICIPACIONES,
+811,Fondo general de participaciones,
+8111,Participaciones a Municipios por Ingresos Federales [PARTICIPACIONES],5
+812,Fondo de fomento municipal,
+8121,Fondo de fomento municipal [PARTICIPACIONES],5
+813,Participaciones de las entidades federativas a los municipios,
+8131,Participaciones a municipios por ingresos estatales [PARTICIPACIONES],5
+8132,Fondo compensatorio a municipios [PARTICIPACIONES],5
+814,Otros conceptos participables de la Federación a entidades federativas,
+815,Otros conceptos participables de la Federación a municipios,
+816,Convenios de colaboración administrativa,
+8300,APORTACIONES,
+831,Aportaciones de la Federación a las entidades federativas,
+832,Aportaciones de la Federación a municipios,
+833,Aportaciones de las entidades federativas a los municipios,
+8331,Fondo de infraestructura social municipal [GASTO DE CAPITAL],2
+8332,"Fondo de fortalecimiento municipal [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+834,Aportaciones previstas en leyes y decretos al sistema de protección social,
+835,Aportaciones previstas en leyes y decretos compensatorias a entidades federativas y municipios,
+8500,CONVENIOS,
+851,Convenios de reasignación,
+852,Convenios de descentralización,
+853,Otros convenios,
+8531,"Otros convenios [GASTO CORRIENTE, GASTO DE CAPITAL]","1,2"
+9000,DEUDA PÚBLICA,
+9100,AMORTIZACIÓN DE LA DEUDA PÚBLICA,
+911,Amortización de la deuda interna con instituciones de crédito,
+9111,Amortización de la deuda pública [AMORTIZACIÓN DE LA DEUDA Y DISMINUCIÓN DE PASIVOS],3
+912,Amortización de la deuda interna por emisión de títulos y valores,
+9121,Amortización de la deuda interna por emisión de títulos y valores [AMORTIZACIÓN DE LA DEUDA Y DISMINUCIÓN DE PASIVOS],3
+913,Amortización de arrendamientos financieros nacionales,
+914,Amortización de la deuda externa con instituciones de crédito,
+915,Amortización de deuda externa con organismos financieros internacionales,
+916,Amortización de la deuda bilateral,
+917,Amortización de la deuda externa por emisión de títulos y valores,
+918,Amortización de arrendamientos financieros internacionales,
+9200,INTERESES DE LA DEUDA PÚBLICA,
+921,Intereses de la deuda interna con instituciones de crédito,
+9211,Intereses de la deuda pública [GASTO CORRIENTE],1
+922,Intereses derivados de la colocación de títulos y valores,
+923,Intereses por arrendamientos financieros nacionales,
+924,Intereses de la deuda externa con instituciones de crédito,
+925,Intereses de la deuda con organismos financieros Internacionales,
+926,Intereses de la deuda bilateral,
+927,Intereses derivados de la colocación de títulos y valores en el exterior,
+928,Intereses por arrendamientos financieros internacionales,
+9300,COMISIONES DE LA DEUDA PÚBLICA,
+931,Comisiones de la deuda pública interna,
+9311,Comisiones de la deuda pública [GASTO CORRIENTE],1
+932,Comisiones de la deuda pública externa,
+9400,GASTOS DE LA DEUDA PÚBLICA,
+941,Gastos de la deuda pública interna,
+9411,Gastos de la deuda pública [GASTO CORRIENTE],1
+942,Gastos de la deuda pública externa,
+9500,COSTO POR COBERTURAS,
+951,Costos por coberturas,
+9511,Costos por cobertura [GASTO CORRIENTE],1
+9600,APOYOS FINANCIEROS,
+961,Apoyos a intermediarios financieros,
+962,Apoyos a ahorradores y deudores del Sistema Financiero Nacional,
+9900,ADEUDOS DE EJERCICIOS FISCALES ANTERIORES (ADEFAS),
+991,ADEFAS,
+9911,Adeudos de ejercicios fiscales anteriores [GASTO CORRIENTE],1
