@@ -33,8 +33,8 @@ Sistema web para gestión de inventarios, con trazabilidad, responsables, export
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/Uaybalam/inventario.git
-cd inventario
+git clone https://github.com/FelixLona/ControlDeInventarios.git
+cd ControlDeInventarios
 ```
 
 2. **Instalar dependencias**
