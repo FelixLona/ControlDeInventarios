@@ -2,19 +2,7 @@
 
 Sistema web para gestión de inventarios, con trazabilidad, responsables, exportación a Excel y panel administrativo moderno.
 
----
 
-## 🚀 Funcionalidades principales
-
-* Registro y login de usuarios.
-* Dashboard con todos los productos del inventario.
-* CRUD de productos, categorías, inventario, ubicaciones y responsables.
-* Trazabilidad e historial de movimientos.
-* Asignación de responsables y documentos de compromiso.
-* Exportación de productos a Excel.
-* Panel de administración con Filament.
-
----
 
 ## ⚙️ Requisitos del sistema
 
